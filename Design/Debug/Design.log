@@ -1,0 +1,32 @@
+﻿生成启动时间为 2016/7/27 14:32:22。
+     1>项目“D:\develop\Design\Design\Design\Design.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Design.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Design.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt DesignDlg.cpp
+         DesignDlg.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\develop\Design\Design\Debug\Design.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Design.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\develop\Design\Design\Debug\Design.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\develop\Design\Design\Debug\Design.lib" /MACHINE:X86 Debug\Design.res
+         Debug\Design.exe.embed.manifest.res
+         Debug\Design.obj
+         Debug\DesignDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Design.exe.embed.manifest" /manifest Debug\Design.exe.intermediate.manifest "D:\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Design.vcxproj -> D:\develop\Design\Design\Debug\Design.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Design.unsuccessfulbuild”。
+         正在对“Debug\Design.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\develop\Design\Design\Design\Design.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.50
